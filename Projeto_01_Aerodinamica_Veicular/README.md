@@ -55,7 +55,6 @@ An unstructured mesh with localized boundary layer refinement was configured to 
 2. **Rear Wake:** Low-pressure recirculation zone forming rear vortices—the dominant contributor to pressure drag.
 
 ---
-git mv <Projeto_01_Aerodinamica_Veicular> <Project_01_Vehicle_Aerodynamics>
 
 ## 6. Engineering Conclusions
 * The $k-\omega \text{ SST}$ model clearly resolved flow separation points along the roofline and trunk edge.
