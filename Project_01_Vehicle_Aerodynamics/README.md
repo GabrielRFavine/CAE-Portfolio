@@ -48,7 +48,7 @@ An unstructured mesh with localized boundary layer refinement was configured to 
 * **Lift Coefficient ($C_l$):** `[Insert computed value, e.g., 0.045]`
 
 ### Qualitative Flow Evaluation
-![Streamlines and Turbulent Wake](./imagens/streamlines.png)
+![Streamlines and Turbulent Wake](./Images/Streamlines.png)
 *(Replace with high-resolution screenshot/GIF of streamlines and velocity vectors)*
 
 1. **Frontal Region:** High static pressure region at the front bumper and hood (stagnation point).
