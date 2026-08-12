@@ -10,8 +10,8 @@ Combining a solid background in 3D CAD modeling with computer-aided engineering,
 ## 🛠️ Software & Technical Skills
 
 * **CAE / CFD Simulation:** ANSYS Mechanical (*Transient Thermal*, *Static Structural*, *Topology Optimization*), ANSYS Fluent (External Aerodynamics).
-* **CAD Modeling:** [Insert your primary CAD tools, e.g., SolidWorks, CATIA V5, Siemens NX, Creo].
-* **Methodologies:** Geometric Defeaturing, Mesh Convergence Studies, Coupled Thermo-Mechanical Analysis, External Flow Field Evaluation ($C_d$ & $C_l$).
+* **CAD Modeling:** AutoCad, NX, Fusion 360.
+* **Methodologies:** Geometric Defeaturing, Mesh Convergence Studies, Coupled Thermo-Mechanical Analysis, External Flow Field Evaluation.
 
 ---
 
